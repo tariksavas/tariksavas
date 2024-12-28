@@ -2,14 +2,10 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tarik+Savas....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tarik+Savas...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/tariksavas/" title="LinkedIn Profile">LinkedIn</a></code>
-  <code><a href="https://www.tariksavas.com" title="Website">Website</a></code>
-</h5>
 <br>
 <p align="center">
   Hi, I'm Tarik Savas, Software Engineer & XR Developer & Game Developer from Turkey
@@ -21,7 +17,9 @@
   <br>
   📚 I’m currently improving utility frameworks, SDKs, and developing XR and game projects.
   <br>
-  📫 How to reach me: <a href="mailto: tariksavas26@gmail.com">tariksavas26@gmail.com</a>
+  📫 How to reach me: 
+  <code><a href="https://www.linkedin.com/in/tariksavas/" title="LinkedIn Profile">LinkedIn</a></code>
+  <code><a href="https://www.tariksavas.com" title="Website">Website</a></code>
 </p>
 
 <hr>
