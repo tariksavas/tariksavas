@@ -11,11 +11,13 @@
   Hi, I'm Tarik Savas, Software Engineer & Game Developer & XR Developer from Turkey
   <br>
   <br>
-  🎮 I am currently working on my own game project.
+  🎮 I am currently developing my own game project, which is my biggest passion.
   <br>
-  💻 I have a passion for creating architectures and writing structured code, especially when it comes to building robust systems.
+  💻 I have a strong interest in creating architectures and writing structured, high-performance code. My focus is on building robust systems for games and interactive applications.
   <br>
-  📚 I’m currently improving utility frameworks, SDKs, and developing game and XR projects.
+  🚀 My journey in software development started in 2015 with C, followed by OOP principles with Java. Since 2019, I’ve been working extensively with C# and Unity, developing over 30 projects in areas like gaming, AR, and VR.
+  <br>
+  📚 I’m also focused on improving utility frameworks, SDKs, and developing game and XR projects.
   <br>
   📫 How to reach me: 
   <code><a href="https://www.linkedin.com/in/tariksavas/" title="LinkedIn Profile">LinkedIn</a></code>
