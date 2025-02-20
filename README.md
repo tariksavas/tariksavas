@@ -8,14 +8,14 @@
 
 <br>
 <p align="center">
-  Hi, I'm Tarik Savas, Software Engineer & XR Developer & Game Developer from Turkey
+  Hi, I'm Tarik Savas, Software Engineer & Game Developer & XR Developer from Turkey
   <br>
   <br>
-  🔬 I am currently working as an XR Developer at GoArt
+  🎮 I am currently working on my own game project.
   <br>
   💻 I have a passion for creating architectures and writing structured code, especially when it comes to building robust systems.
   <br>
-  📚 I’m currently improving utility frameworks, SDKs, and developing XR and game projects.
+  📚 I’m currently improving utility frameworks, SDKs, and developing game and XR projects.
   <br>
   📫 How to reach me: 
   <code><a href="https://www.linkedin.com/in/tariksavas/" title="LinkedIn Profile">LinkedIn</a></code>
